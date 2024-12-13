@@ -1,0 +1,160 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'Futura'
+}
+
+nav{
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  padding: 35px;
+  background-color: #E3FCFC;
+}
+
+nav ul{
+  text-align: right;
+  display: flex;
+  justify-content: end;
+
+}
+
+nav ul li{
+  color: #0A337A;
+  margin-right: 20px;
+}
+
+.about-header{
+  height: 500px;
+  padding: 100px;
+  text-align: center;
+  color: #6FACC2;
+  background-color: #2D286A;
+}
+
+.about-header h1{
+  padding-top: 155px;
+  font-size: 95px;
+}
+
+.info{
+  background-color: #445dcc;
+  width: 100%
+}
+
+.about{
+  display: flex;
+  flex-basis: 100%;
+  flex: 1;
+  width: 50%;
+  padding-top: 50px;
+  padding-left: 450px;
+}
+
+.about h4{
+  padding-right: 50px;
+  font-size: 20px;
+  float: right;
+  flex-grow: 50%;
+}
+
+.about p{
+  padding-left: 55px;
+}
+
+.experience{
+  display: flex;
+  flex-basis: 100%;
+  flex: 1;
+  width: 50%;
+  padding-top: 50px;
+  padding-left: 450px;
+}
+
+.experience h4{
+  padding-right: 50px;
+  font-size: 20px;
+  float: right;
+  flex-grow: 50%;
+}
+
+.skills{
+  display: flex;
+  flex-basis: 100%;
+  flex: 1;
+  width: 50%;
+  padding-top: 50px;
+  padding-left: 450px;
+}
+
+.skills h4{
+  padding-right: 50px;
+  font-size: 20px;
+  float: right;
+  flex-grow: 50%;
+}
+
+.skills p{
+  padding-left: 63px;
+}
+
+.tools{
+  display: flex;
+  flex-basis: 100%;
+  flex: 1;
+  width: 50%;
+  padding-top: 50px;
+  padding-left: 450px;
+  padding-bottom: 50px;
+}
+
+.tools h4{
+  padding-right: 50px;
+  font-size: 20px;
+  float: right;
+  flex-grow: 50%;
+}
+
+.lists{
+  display: flex;
+  flex-basis: 100%;
+  flex: 1;
+  width: 50%;
+  padding-left: 65px;
+}
+.animation{
+  padding-left: 25px;
+}
+
+.composition{
+  padding-left: 25px;
+}
+
+.voiceacting{
+  padding-left: 25px;
+}
+
+footer{
+  padding-top: 50px;
+  text-align: center;
+  color: #6FACC2;
+}
+
+.links{
+  padding-top: 50px;
+  text-align: center;
+}
+
+.links ul{
+  display: flex;
+  justify-content: center;
+}
+
+.links ul li{
+  color: #0A337A;
+  margin-inline: 40px;
+}
