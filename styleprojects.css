@@ -1,0 +1,229 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'Futura'
+}
+
+nav{
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  padding: 35px;
+  background-color: #E3FCFC;
+}
+
+nav ul{
+  text-align: right;
+  display: flex;
+  justify-content: end;
+
+}
+
+nav ul li{
+  color: #0A337A;
+  margin-right: 20px;
+}
+
+.projects-header{
+  height: 500px;
+  padding: 100px;
+  text-align: center;
+  color: #6FACC2;
+  background-color: #2D286A;
+}
+
+.projects-header h1{
+  padding-top: 155px;
+  font-size: 95px;
+}
+
+.projects-header h3{
+  font-size: 25px;
+  padding: 60px;
+}
+
+.directory{
+  background-color: #445dcc;
+}
+
+.thefirstworldcollection{
+  padding-top: 50px;
+  display: flex;
+  flex-basis: 100%;
+  flex: 1;
+  width: 50%;
+}
+
+.tfwctext{
+  padding-right: 50px;
+  float: right;
+  flex-grow: 70%;
+}
+
+.tfwctext h6{
+  font-size: 30px;
+}
+
+.tfwctext p{
+  font-size: 20px;
+}
+
+.tfwcimage{
+  flex-grow: 30%;
+}
+
+.visforvendetta{
+  padding-top: 50px;
+  display: flex;
+  flex-basis: 100%;
+  flex: 1;
+  width: 50%;
+}
+
+.vifvtext{
+  padding-right: 50px;
+  float: right;
+  flex-grow: 70%;
+}
+
+.vifvtext h6{
+  font-size: 30px;
+}
+
+.vifvtext p{
+  font-size: 20px;
+}
+
+.vifvimage{
+  flex-grow: 30%;
+}
+
+.thederivativeseries{
+  padding-top: 50px;
+  display: flex;
+  flex-basis: 100%;
+  flex: 1;
+  width: 50%;
+}
+
+.tdstext{
+  padding-right: 50px;
+  float: right;
+  flex-grow: 70%;
+}
+
+.tdstext h6{
+  font-size: 30px;
+}
+
+.tdstext p{
+  font-size: 20px;
+}
+
+.tdsimage{
+  flex-grow: 30%;
+}
+
+.theprimeseries{
+  padding-top: 50px;
+  display: flex;
+  flex-basis: 100%;
+  flex: 1;
+  width: 50%;
+}
+
+.tpstext{
+  padding-right: 50px;
+  float: right;
+  flex-grow: 70%;
+}
+
+.tpstext h6{
+  font-size: 30px;
+}
+
+.tpstext p{
+  font-size: 20px;
+}
+
+.tpsimage{
+  flex-grow: 30%;
+}
+
+.calcusopolissumproject{
+  padding-top: 50px;
+  display: flex;
+  flex-basis: 100%;
+  flex: 1;
+  width: 50%;
+}
+
+.csumptext{
+  padding-right: 50px;
+  float: right;
+  flex-grow: 70%;
+}
+
+.csumptext h6{
+  font-size: 30px;
+}
+
+.csumptext p{
+  font-size: 20px;
+}
+
+.csumpimage{
+  flex-grow: 30%;
+}
+
+.theyllibrumproject{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  flex-basis: 100%;
+  flex: 1;
+  width: 50%;
+}
+
+.typtext{
+  padding-right: 50px;
+  float: right;
+  flex-grow: 70%;
+}
+
+.typtext h6{
+  font-size: 30px;
+}
+
+.typtext p{
+  font-size: 20px;
+}
+
+.typimage{
+  flex-grow: 30%;
+}
+
+footer{
+  padding-top: 50px;
+  text-align: center;
+  color: #6FACC2;
+}
+
+.links{
+  padding-top: 50px;
+  text-align: center;
+}
+
+.links ul{
+  display: flex;
+  justify-content: center;
+}
+
+.links ul li{
+  color: #0A337A;
+  margin-inline: 40px;
+}
