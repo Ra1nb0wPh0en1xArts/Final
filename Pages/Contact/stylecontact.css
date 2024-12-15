@@ -53,14 +53,20 @@ nav ul li{
   flex: 1;
   width: 100%;
   padding-top: 50px;
+  padding-left: 450px;
 }
 
 .contact h4{
   text-align: center;
+  padding-right: 50px;
+  font-size: 20px;
+  float: right;
+  flex-grow: 50%;
 }
 
 .contact ul{
   text-align: center;
+  padding-left: 55px;
 }
 
 .social-media{
@@ -70,14 +76,20 @@ nav ul li{
   flex: 1;
   width: 100%;
   padding-top: 50px;
+  padding-left: 450px;
 }
 
 .social-media h4{
   text-align: center;
+  padding-right: 50px;
+  font-size: 20px;
+  float: right;
+  flex-grow: 50%;
 }
 
 .social-media ul{
   text-align: center;
+   padding-left: 55px;
 }
 
 footer{
