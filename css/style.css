@@ -16,6 +16,12 @@ nav{
   background-color: #E3FCFC;
 }
 
+a{
+text-align: left;
+display: flex;
+color: #0A337A;
+}
+
 nav ul{
   text-align: right;
   display: flex;
