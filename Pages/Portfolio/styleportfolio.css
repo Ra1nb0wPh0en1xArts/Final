@@ -63,14 +63,14 @@ nav ul li{
 .left{
   padding-top: 30px;
   font-size: 25px;
-  height: 400px;
+  height: 1000px;
   flex-grow: 50%;
 }
 
 .right{
   padding-top: 30px;
   font-size: 25px;
-  height: 400px;
+  height: 1000px;
   flex-grow: 50%;
 }
 
