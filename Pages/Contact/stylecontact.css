@@ -118,3 +118,11 @@ footer{
   color: #0A337A;
   margin-inline: 40px;
 }
+
+@media screen and (max-width: 600px){
+  .nav{
+    float: none;
+    width: 100%;
+    flex-direction: column;
+  }
+}
